@@ -23,9 +23,7 @@ Run the code to collect all worker file data:
 npm run start
 ```
 
-```
 Modify package.json "start" script to add/remove variables.
-```
 
 Must include --path variable. --path is the path to the worker file on domain. EX: "/aimtell-worker.js"
 
