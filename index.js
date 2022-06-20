@@ -652,10 +652,6 @@ let sites = [
       "url": "https://www.discoverhealthinfo.com/"
     },
     {
-      "id": 25432,
-      "url": "https://avira.ask.com"
-    },
-    {
       "id": 25446,
       "url": "https://findbestresults.co"
     },
@@ -694,10 +690,6 @@ let sites = [
     {
       "id": 25654,
       "url": "https://www.questionsanswered.net"
-    },
-    {
-      "id": 25655,
-      "url": "https://www.faqtoids..com"
     },
     {
       "id": 25656,
