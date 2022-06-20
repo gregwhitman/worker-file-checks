@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js --path=/pushly-sdk-worker.js --filename=amg_worker_report.json --report_type=full",
+    "start": "node index.js --path=/pushly-sdk-worker.js --report_type=full1234",
     "test": "node index.js --path=/pushly-sdk-worker.js --report_type=issues"
   },
   "author": "",

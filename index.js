@@ -63,6 +63,8 @@ function main(callback){
                     delete readyToSave.full;
                     delete readyToSave.issues;
                     break;
+                default:
+                  break;
             }
             var jsonContent = JSON.stringify(readyToSave);
             fs.writeFile(FILENAME, jsonContent, 'utf8', function (err) {
