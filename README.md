@@ -8,10 +8,10 @@ You'll need to have [node (nodejs)](https://nodejs.org/en/download/) installed o
 
 0. If you are on Windows: install Git: https://git-scm.com/download/win
 1. Clone this repository: 
-`git clone https://github.com/WietseWind/xrp-ledgerstats.git`
-2. Install dependencies: enter the cloned folder (on the commandline) using `cd xrp-ledgerstats` and run:
+`git clone https://github.com/gregwhitman/worker-file-checks.git`
+2. Install dependencies: enter the cloned folder (on the commandline) using `cd worker-file-checks` and run:
 `npm install`
-3. Fetch a specific ledger into a local `json` file
+3. Fetch a specific worker file information into a local `json` file
 
 ## Syntax
 
