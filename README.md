@@ -35,6 +35,7 @@ npm start --path=/aimtell-worker.js
 
 Additional options...
 --filename "custom name to name the file outputed" EX: "--filename=custom_filename.json"
+
 --report_type "what information to include in .json file" (full,issues,no_issues) EX:"--report_type=issues"
 
 npm start "--path=/aimtell-worker.js --report_type=full --filename=custom_filename.json
